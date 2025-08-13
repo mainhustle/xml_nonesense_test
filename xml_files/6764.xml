@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Standorte>
+    <Standort>
+        <Name>Hauptsitz</Name>
+        <Straße>Berliner Allee 12</Straße>
+        <PLZ>10117</PLZ>
+        <Ort>Berlin</Ort>
+        <Bundesland>Berlin</Bundesland>
+    </Standort>
+    <Standort>
+        <Name>Logistikzentrum Nord</Name>
+        <Straße>Hamburger Straße 45</Straße>
+        <PLZ>20095</PLZ>
+        <Ort>Hamburg</Ort>
+        <Bundesland>Hamburg</Bundesland>
+    </Standort>
+    <Standort>
+        <Name>Service-Center West</Name>
+        <Straße>Dortmunder Ring 78</Straße>
+        <PLZ>44135</PLZ>
+        <Ort>Dortmund</Ort>
+        <Bundesland>Nordrhein-Westfalen</Bundesland>
+    </Standort>
+    <Standort>
+        <Name>Forschung &amp; Entwicklung Süd</Name>
+        <Straße>Münchner Platz 5</Straße>
+        <PLZ>80331</PLZ>
+        <Ort>München</Ort>
+        <Bundesland>Bayern</Bundesland>
+    </Standort>
+    <Standort>
+        <Name>Filiale Ost</Name>
+        <Straße>Dresdner Straße 22</Straße>
+        <PLZ>01067</PLZ>
+        <Ort>Dresden</Ort>
+        <Bundesland>Sachsen</Bundesland>
+    </Standort>
+</Standorte>
