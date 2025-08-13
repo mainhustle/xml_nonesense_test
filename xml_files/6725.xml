@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<standorte version="1.0">
+    <standort id="DE006">
+        <name>Stuttgart Zentrum</name>
+        <adresse>
+            <strasse>Schlossplatz 1</strasse>
+            <plz>70173</plz>
+            <ort>Stuttgart</ort>
+            <bundesland>Baden-Württemberg</bundesland>
+        </adresse>
+        <geo>
+            <lat>48.778448</lat>
+            <lon>9.180013</lon>
+        </geo>
+    </standort>
+
+    <standort id="DE007">
+        <name>Dresden Altstadt</name>
+        <adresse>
+            <strasse>Theaterplatz 2</strasse>
+            <plz>01067</plz>
+            <ort>Dresden</ort>
+            <bundesland>Sachsen</bundesland>
+        </adresse>
+        <geo>
+            <lat>51.050409</lat>
+            <lon>13.737262</lon>
+        </geo>
+    </standort>
+
+    <standort id="DE008">
+        <name>Leipzig Innenstadt</name>
+        <adresse>
+            <strasse>Markt 1</strasse>
+            <plz>04109</plz>
+            <ort>Leipzig</ort>
+            <bundesland>Sachsen</bundesland>
+        </adresse>
+        <geo>
+            <lat>51.339695</lat>
+            <lon>12.373075</lon>
+        </geo>
+    </standort>
+
+    <standort id="DE009">
+        <name>Düsseldorf Stadtmitte</name>
+        <adresse>
+            <strasse>Königsallee 1</strasse>
+            <plz>40212</plz>
+            <ort>Düsseldorf</ort>
+            <bundesland>Nordrhein-Westfalen</bundesland>
+        </adresse>
+        <geo>
+            <lat>51.227741</lat>
+            <lon>6.773456</lon>
+        </geo>
+    </standort>
+
+    <standort id="DE010">
+        <name>Nürnberg Altstadt</name>
+        <adresse>
+            <strasse>Hauptmarkt 1</strasse>
+            <plz>90403</plz>
+            <ort>Nürnberg</ort>
+            <bundesland>Bayern</bundesland>
+        </adresse>
+        <geo>
+            <lat>49.452103</lat>
+            <lon>11.076665</lon>
+        </geo>
+    </standort>
+</standorte>
